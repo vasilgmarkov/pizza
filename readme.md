@@ -4,6 +4,6 @@
 * Water
 * Tomatoes
 * Yeast
-* Green Pepper
-* Mashroom
+* Egga
+* Piperoni
 
