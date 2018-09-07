@@ -4,5 +4,6 @@
 * Water
 * Tomatoes
 * Yeast
-* Mozzarella
+* Olives
+* Mashroom
 
