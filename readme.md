@@ -4,6 +4,6 @@
 * Water
 * Tomatoes
 * Yeast
-* Olives
-* Mashroom
+* Oives
+* Mash
 
