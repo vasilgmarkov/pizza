@@ -4,6 +4,5 @@
 * Water
 * Tomatoes
 * Yeast
-* Eggs
-* Piperoni
+* Mozzarella
 
