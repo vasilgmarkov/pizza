@@ -4,5 +4,5 @@
 * Water
 * Tomatoes
 * Yeast
-* Eggs
+* Olives
 * Peperoni
