@@ -4,6 +4,6 @@
 * Water
 * Tomatoes
 * Yeast
-* Oliva
-* Mashrooms
+* Peperoni
+* Chicken
 
