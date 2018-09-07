@@ -4,6 +4,6 @@
 * Water
 * Tomatoes
 * Yeast
-* Egga
+* Eggs
 * Piperoni
 
